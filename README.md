@@ -162,7 +162,7 @@ graph TB
 | Transação FORA do perímetro | ✅ LIBERADA |
 | Transação em área segura | ✅ LIBERADA |
 
-### 📸 Exemplos de Casos Reais
+### 📸 Exemplos de Casos
 
 <table>
   <tr>
