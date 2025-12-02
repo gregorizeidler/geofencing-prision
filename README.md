@@ -16,8 +16,6 @@ Performance: 1.12ms/request | Cobertura: Brasil completo
 [📸 Ver Exemplos](#-precisão-com-polígonos---casos-reais) | [🚀 Começar](#-quick-start) | [🔌 API](#-api-rest---endpoints)
 
 </div>
-<img width="2816" height="1536" alt="Gemini_Generated_Image_9f5mjq9f5mjq9f5m (1)" src="https://github.com/user-attachments/assets/c1697f77-5bc7-43bd-8bc2-d93e6662b893" />
-<img width="2816" height="1536" alt="Gemini_Generated_Image_9f5mjq9f5mjq9f5m (2)" src="https://github.com/user-attachments/assets/7e85f33c-fa49-40da-a228-4dc50c01dc95" />
 
 ---
 
@@ -163,6 +161,14 @@ graph TB
 | Transação DENTRO do presídio | ⛔ BLOQUEADA |
 | Transação FORA do perímetro | ✅ LIBERADA |
 | Transação em área segura | ✅ LIBERADA |
+
+
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_9f5mjq9f5mjq9f5m (1)" src="https://github.com/user-attachments/assets/c1697f77-5bc7-43bd-8bc2-d93e6662b893" />
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_9f5mjq9f5mjq9f5m (2)" src="https://github.com/user-attachments/assets/7e85f33c-fa49-40da-a228-4dc50c01dc95" />
+
+
 
 ### 📸 Exemplos de Casos
 
